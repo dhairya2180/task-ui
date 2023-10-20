@@ -1,0 +1,12 @@
+.bgimage{
+  background-image: url('./images/Mountain_1_.png');
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.backimage{
+  background-image: url('./images/bg.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
